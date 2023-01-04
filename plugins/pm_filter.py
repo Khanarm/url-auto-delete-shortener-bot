@@ -111,7 +111,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="👇 ♨♨ HOW TO DOWNLOAD  ♨♨ 👇", url='https://t.me/htdpspkfiles')
+            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://t.me/htdpspkfiles')
         ]
     )
 
@@ -771,7 +771,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="👇 ♨♨ HOW TO DOWNLOAD ♨♨ 👇", url='https://t.me/htdpspkfiles')
+            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://t.me/htdpspkfiles')
         ]
     )
 
