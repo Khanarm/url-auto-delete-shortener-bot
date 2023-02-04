@@ -111,7 +111,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://t.me/htdpspkfiles')
+            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://t.me/+DAyP-HTJqDk4YWFl')
         ]
     )
 
@@ -167,7 +167,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('𝚃𝙷𝙸𝚂 𝙼𝙾𝚅𝙸𝙴 I𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝚁𝙴𝙻𝙴𝙰𝚂𝙴𝙳 𝙾𝚁 𝙰𝙳𝙳𝙴𝙳 𝚃𝙾 𝙳𝙰𝚃𝚂𝙱𝙰𝚂𝙴 ⤹★ DM US TO ADD YOUR MOVIE ★⤸ @PH_FILES_ADMINBOT💌')
+            k = await query.message.edit('𝚃𝙷𝙸𝚂 𝙼𝙾𝚅𝙸𝙴 I𝚂 𝙽𝙾𝚃 𝚈𝙴𝚃 𝚁𝙴𝙻𝙴𝙰𝚂𝙴𝙳 𝙾𝚁 𝙰𝙳𝙳𝙴𝙳 𝚃𝙾 𝙳𝙰𝚃𝚂𝙱𝙰𝚂𝙴 ⤹★ DM US TO ADD YOUR MOVIE ★⤸ @PHFILES_ADMINBOT💌')
             await asyncio.sleep(10)
             await k.delete()
 
@@ -478,9 +478,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('Sᴛᴀᴛᴜs', callback_data='stats'),
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ', url='https://t.me/ph_files_adminbot')
+            InlineKeyboardButton('Sᴏᴜʀᴄᴇ', url='https://t.me/phfiles_adminbot')
         ],[
-            InlineKeyboardButton('Rᴇᴘᴏʀᴛ Bᴜɢs & Fᴇᴇᴅʙᴀᴄᴋ', url='https://t.me/ph_files_adminbot')
+            InlineKeyboardButton('Rᴇᴘᴏʀᴛ Bᴜɢs & Fᴇᴇᴅʙᴀᴄᴋ', url='https://t.me/phfiles_adminbot')
         ],[
             InlineKeyboardButton('Aks Fɪʟᴇs Cʜᴀɴɴᴇʟ', url='https://t.me/ph_files')
         ],[
@@ -648,7 +648,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                       InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/ph_files'),
                       InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://telegram.me/ph_files')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/ph_files_adminbot'),
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/phfiles_adminbot'),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/ph_files')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
@@ -771,7 +771,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://t.me/htdpspkfiles')
+            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://t.me/+DAyP-HTJqDk4YWFl')
         ]
     )
 
