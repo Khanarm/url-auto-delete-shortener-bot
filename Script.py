@@ -113,7 +113,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/Imdb_updates>~ Maintained by imdb updates</a></b>"""
+<b><a href=https://t.me/phfiles>~ Maintained by PH FILES/a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -222,8 +222,8 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
 • /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
 
 <b>Exᴀᴍᴘʟᴇ:</b>
-<code>/batch https://t.me/Imdb_updates
-https://t.me/Imdb_updates </code>
+<code>/batch https://t.me/ph_files
+https://t.me/ph_files </code>
 """
 
     KD_CNL = """
