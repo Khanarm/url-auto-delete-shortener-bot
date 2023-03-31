@@ -82,7 +82,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "👇 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ᴛʜɪs 👇"
-DOWNLOAD_TEXT_URL = "https://t.me/+DAyP-HTJqDk4YWFl"
+DOWNLOAD_TEXT_URL = "https://telegram.dog/+b7zUE136aTwzZjhl"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "🤗 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐩𝐥𝐞𝐚𝐬𝐞 🤗"
