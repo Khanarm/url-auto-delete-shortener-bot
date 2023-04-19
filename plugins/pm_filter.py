@@ -111,7 +111,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://t.me/+DAyP-HTJqDk4YWFl')
+            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://telegram.dog/+b7zUE136aTwzZjhl')
         ]
     )
 
@@ -771,7 +771,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://t.me/+DAyP-HTJqDk4YWFl')
+            InlineKeyboardButton(text="👉 HOW TO OPEN LINKS 👈", url='https://telegram.dog/+b7zUE136aTwzZjhl')
         ]
     )
 
